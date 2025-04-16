@@ -39,10 +39,15 @@ t)Q(t+1)=JQ(t)′+K′Q(t)
 
 
 **PROGRAM**
+
 ![image](https://github.com/user-attachments/assets/9d310244-d181-4f91-a029-2b285e58feee)
 
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/user-attachments/assets/d592caa4-54de-458f-b805-4cab1ea15ecd)
 
+
 **RESULTS**
+
 To implement  JK flipflop using verilog and validating their functionality using their functional tables has been executed successfully.
